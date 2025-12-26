@@ -1,5 +1,5 @@
 # titles that get displayed in the wire hacking window
-wires-board-name-default = Fios
+wires-board-name-default = Fiação
 wires-board-name-booze = BoozeDispenser
 wires-board-name-soda = SodaDispenser
 wires-board-name-thermomachine = Termomáquina
