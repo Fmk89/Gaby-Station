@@ -1,3 +1,3 @@
-ent-soda_dispenser = máquina de refrigerante
-    .desc = Uma máquina de refrigerantes que tu acharia em qualquer restaurante fast-food. Aguenta só um copo por vez.
+ent-soda_dispenser = Dispenser de Refrescos
+    .desc = Uma máquina de refrescos, do tipo que tem em qualquer restaurante fast-food. Aguenta só um copo por vez.
 
