@@ -1,7 +1,7 @@
 # titles that get displayed in the wire hacking window
 wires-board-name-default = Fios
-wires-board-name-booze = BoozeDispenser
-wires-board-name-soda = SodaDispenser
+wires-board-name-booze = Dispenser de Pinga
+wires-board-name-soda = Dispenser de Refresco
 wires-board-name-thermomachine = Termomáquina
 wires-board-name-condenser = Condensador
 wires-board-name-pa = Mk2 Particle Accelerator
