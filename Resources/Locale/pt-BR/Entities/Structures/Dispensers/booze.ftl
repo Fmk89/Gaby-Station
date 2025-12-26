@@ -1,3 +1,3 @@
-ent-BoozeDispenser = máquina de bebidas alcoólicas
-    .desc = Uma máquina de refrigerante para adultos. Aguenta só um copo por vez.
+ent-BoozeDispenser = Dispenser de Pinga
+    .desc = Uma máquina que distribui bebidas alcoolicas. Aguenta só um copo por vez.
 
